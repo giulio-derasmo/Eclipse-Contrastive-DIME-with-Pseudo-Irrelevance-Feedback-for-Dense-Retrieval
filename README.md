@@ -23,5 +23,5 @@ both PRF Eclipse and LLM Eclipse show statistically significant improvement
 with respect to their DIME counterparts and Baseline. 
 
 <div align="center">
-<img src="images/comparison-eclipse-baselines.jpeg" alt="" width="400"/>
+<img src="comparison-eclipse-baselines.png" alt="" width="400"/>
 <div>
