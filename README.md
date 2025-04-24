@@ -18,7 +18,7 @@ DIMEs (PRF and LLM) and Baseline on the TREC DL ’19, DL ’20, DH, and
 RB ’04 datasets, using the ANCE, Contriever, and TAS-B models. We report
 the best result among varying the percentage of retained dimensions. Eclipse
 exhibits superior performance in the traditional evaluation protocol, improving
-performance up to $21.03\%$ (resp. $22.88\%$) in mAP(AP) and $12.04\%$ (resp. $14.18\%$) in nDCG@10 w.r.t. the DIME-based baseline (resp. the baseline using all dimensions). In particular,
+performance up to 21.03% (resp. 22.88%) in mAP(AP) and 12.04\% (resp. 14.18%) in nDCG@10 w.r.t. the DIME-based baseline (resp. the baseline using all dimensions). In particular,
 both PRF Eclipse and LLM Eclipse show statistically significant improvement
 with respect to their DIME counterparts and Baseline. 
 
